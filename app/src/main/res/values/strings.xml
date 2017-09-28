@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Starks</string>
+    <string name="about_stark">Stark Industries is a weapons and technology company founded and owned by Howard Stark. Stark Industries is the world leader in the development of manufacturing advanced weapons. The company later shifted from manufacturing weapons and focused instead on clean energy</string>
+    <string name="mail">starkltd@starkindustries.com</string>
+    <string name="number">+919372000200</string>
+    <string name="stark_industries">Stark Industries</string>
+    <string name="about">About:</string>
+    <string name="phone">Phone:</string>
+</resources>
